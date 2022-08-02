@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VictorZazuetaM
-- 👀 I’m interested in NodeJS and .NET development.
-- 🌱 I’m currently learning frontend technologies.
-- 💞️ I’m looking to collaborate on Freelance projects.
+- 👀 I’m interested in Python and data analysis technologies.
 - 📫 How to reach me: me@victorzazueta.com
 
 <!---
